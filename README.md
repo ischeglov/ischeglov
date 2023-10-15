@@ -17,6 +17,7 @@
 ## Мои проекты:
 #### Разработка телеграм бота для студентов по курсу "Основы разработки на Java" - [JDFREE](https://github.com/ischeglov/JDFREE)
 #### Разработка игры в "кости" - [Игра в кости](https://github.com/ischeglov/Dices_game)
+#### Тестирование с использованием Mockito - [Mockito](https://github.com/ischeglov/Mockito)
 
 ---
 
