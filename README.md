@@ -45,6 +45,7 @@ telegram: @imshcheglov
 - [Git](https://github.com/ischeglov/Certificates/blob/main/3_Git.pdf)
 - [Algorithms and data structures](https://github.com/ischeglov/Certificates/blob/main/4_Algorithms%20and%20data%20structures.pdf)
 - [Java Core](https://github.com/ischeglov/Certificates/blob/main/5_Java%20Core.pdf)
+- [Design Patterns](https://github.com/ischeglov/Certificates/blob/main/6_Design%20Patterns.pdf)
 
 </p>
 
