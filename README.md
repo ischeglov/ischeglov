@@ -89,9 +89,13 @@ JVM. Организация памяти, сборщики мусора, VisualV
 * [Iterator. Задача "Бесконечная итерация"](https://github.com/ischeglov/HW_Behavioral_Patterns_-_Iterator)
 
 Magics, DRY, SOLID
-* [Задача "Магазин"]()
+* [Задача "Магазин"](https://github.com/ischeglov/HW_Magics_DRY_SOLID)
 
 ---
+
+## Модуль «Многопоточное и функциональное программирование»
+
+#### Блок 1. Многопоточное программирование
 
 ## Мои контакты:
 e-mail: ivan_mix@mail.ru
