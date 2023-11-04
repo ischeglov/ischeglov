@@ -98,7 +98,9 @@ Magics, DRY, SOLID
 #### Блок 1. Многопоточное программирование
 
 Многопоточное программирование. Работа с потоками
-* [Задача "Интервал значений"]()
+* [Задача "Интервал значений"](https://github.com/ischeglov/HW_Multithreading_Range_Of_Values)
+
+Работа с синхронизацией. Synchronization, wait, notify
 
 ## Мои контакты:
 e-mail: ivan_mix@mail.ru
