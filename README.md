@@ -101,6 +101,9 @@ Magics, DRY, SOLID
 * [Задача "Интервал значений"](https://github.com/ischeglov/HW_Multithreading_Range_Of_Values)
 
 Работа с синхронизацией. Synchronization, wait, notify
+* [Задача "Робот-доставщик"](https://github.com/ischeglov/HW_Multithreading_Delivery_Robot)
+
+Переменные многопоточной программы
 
 ## Мои контакты:
 e-mail: ivan_mix@mail.ru
