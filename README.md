@@ -104,7 +104,9 @@ Magics, DRY, SOLID
 * [Задача "Робот-доставщик"](https://github.com/ischeglov/HW_Multithreading_Delivery_Robot)
 
 Переменные многопоточной программы
-* [Задача "Генерация никнеймов"]()
+* [Задача "Генерация никнеймов"](https://github.com/ischeglov/HW_Multithreading_Nickname_Generation)
+
+Коллекции для параллельной работы
 
 ## Мои контакты:
 e-mail: ivan_mix@mail.ru
