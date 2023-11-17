@@ -6,7 +6,7 @@
 </div>
 
 <h1>
-  Привет :wave:
+  Привет
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I2ajJsNjM1MTRidThhdDMwMGZodGdxNWZteWxva204dW9vbDl4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -107,6 +107,7 @@ Magics, DRY, SOLID
 * [Задача "Генерация никнеймов"](https://github.com/ischeglov/HW_Multithreading_Nickname_Generation)
 
 Коллекции для параллельной работы
+* [Задача "Программа-анализатор"]()
 
 ## Мои контакты:
 e-mail: ivan_mix@mail.ru
