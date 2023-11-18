@@ -107,7 +107,7 @@ Magics, DRY, SOLID
 * [Задача "Генерация никнеймов"](https://github.com/ischeglov/HW_Multithreading_Nickname_Generation)
 
 Коллекции для параллельной работы
-* [Задача "Программа-анализатор"]()
+* [Задача "Программа-анализатор"](https://github.com/ischeglov/HW_Multithreading_Analyzer_Program)
 
 ## Мои контакты:
 e-mail: ivan_mix@mail.ru
