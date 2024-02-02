@@ -126,6 +126,7 @@ telegram: @imshcheglov
 - [Java Core](https://github.com/ischeglov/Certificates/blob/main/5_Java%20Core.pdf)
 - [Design Patterns](https://github.com/ischeglov/Certificates/blob/main/6_Design%20Patterns.pdf)
 - [Multithreaded and Functional Programming](https://github.com/ischeglov/Certificates/blob/main/7_Multithreaded%20and%20Functional%20Programming.pdf)
+- [Web, Spring & Spring MVC](https://github.com/ischeglov/Certificates/blob/main/8_Web%2C%20Spring%20%26%20Spring%20MVC.pdf)
 
 </p>
 
