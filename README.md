@@ -109,6 +109,11 @@ Magics, DRY, SOLID
 Коллекции для параллельной работы
 * [Задача "Программа-анализатор"](https://github.com/ischeglov/HW_Multithreading_Analyzer_Program)
 
+#### Блок 2. Функциональное программирование, TDD и DDD
+
+Методология разработки. TDD, DDD
+* [TDD. Разработка через тестирование](https://github.com/ischeglov/HW_TDD)
+
 ## Мои контакты:
 e-mail: ivan_mix@mail.ru
 
