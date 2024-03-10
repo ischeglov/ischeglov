@@ -18,6 +18,7 @@
 
 *Тут представлены как учебные проекты, так и многое другое: (со временем будет пополняться)*
 
+#### Примеры работы с элементами Selenide по паттерну PageObject - [SelenideTest](https://github.com/ischeglov/SelenideTest)
 #### Использование библиотеки Rest Assured и Pojo классов для тестирования Api - [RestAssured](https://github.com/ischeglov/RestAssured)
 #### Разработка телеграм бота для студентов по курсу "Основы разработки на Java" - [JDFREE](https://github.com/ischeglov/JDFREE)
 #### Разработка игры в "кости" - [Игра в кости](https://github.com/ischeglov/Dices_game)
