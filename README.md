@@ -136,7 +136,7 @@ telegram: @imshcheglov
 - [Multithreaded and Functional Programming](https://github.com/ischeglov/Certificates/blob/main/7_Multithreaded%20and%20Functional%20Programming.pdf)
 - [Web, Spring & Spring MVC](https://github.com/ischeglov/Certificates/blob/main/8_Web%2C%20Spring%20%26%20Spring%20MVC.pdf)
 - [Spring Boot, deployment and infrastructure](https://github.com/ischeglov/Certificates/blob/main/9_Spring%20Boot%2C%20deployment%20and%20infrastructure.pdf)
-
+- [Data storage and security organization](https://github.com/ischeglov/Certificates/blob/main/10_Data%20storage%20and%20security%20organization.pdf)
 </p>
 
 ---
