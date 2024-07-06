@@ -128,6 +128,7 @@ telegram: @imshcheglov
 ⚡  My Certifications :
 - [Manual testing of web applications](https://github.com/ischeglov/Certificates/blob/main/QA_1_Manual%20testing%20of%20web%20applications.pdf)
 - [Java for testers](https://github.com/ischeglov/Certificates/blob/main/QA_2_Java%20for%20testers.pdf)
+- [Automated Testing](https://github.com/ischeglov/Certificates/blob/main/QA_3_Automated%20Testing.pdf)
 - [Java basics](https://github.com/ischeglov/Certificates/blob/main/1_Java%20Basics.pdf)
 - [OOP Basics](https://github.com/ischeglov/Certificates/blob/main/2_OOP%20Basics.pdf)
 - [Git](https://github.com/ischeglov/Certificates/blob/main/3_Git.pdf)
