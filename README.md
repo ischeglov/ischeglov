@@ -10,7 +10,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I2ajJsNjM1MTRidThhdDMwMGZodGdxNWZteWxva204dW9vbDl4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Меня зовут **Щеглов Иван**, я QA Engineer и начинающий Java developer
+Меня зовут **Щеглов Иван**, я QA Engineer, Java developer
 
 ---
 
