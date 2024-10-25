@@ -18,6 +18,7 @@
 
 *Тут представлены как учебные проекты, так и многое другое: (со временем будет пополняться)*
 
+#### Автоматизация тестирования комплексного сервиса, взаимодействующего с СУБД и API банка - [Automation_Complex_Service](https://github.com/ischeglov/Automation_Complex_Service)
 #### Примеры работы с элементами Selenide по паттерну PageObject - [SelenideTest](https://github.com/ischeglov/SelenideTest)
 #### Использование библиотеки Rest Assured и Pojo классов для тестирования Api - [RestAssured](https://github.com/ischeglov/RestAssured)
 #### Разработка телеграм бота для студентов по курсу "Основы разработки на Java" - [JDFREE](https://github.com/ischeglov/JDFREE)
