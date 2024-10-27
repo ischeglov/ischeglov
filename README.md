@@ -32,7 +32,7 @@
 ## Мои контакты:
 e-mail: ivan_mix@mail.ru
 
-telegram: @imshcheglov
+telegram: [@imshcheglov](https://t.me/imshcheglov)
 
 </p>
 
